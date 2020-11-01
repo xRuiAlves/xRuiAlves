@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - Studying Computer Engineering integrated MSc at FEUP (year 5/5)
 - Technology Enthusiast
 - Keen on Competitive Programming
